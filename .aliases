@@ -1,0 +1,11 @@
+# core
+alias l='ls -lAh --color=auto'
+alias la='ls -A --color=auto'
+alias ll='ls -l --color=auto'
+
+alias h='history'
+alias c='clear'
+
+# tools
+alias d='docker'
+alias k='kubectl'
